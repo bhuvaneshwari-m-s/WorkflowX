@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 const path = require('path');
-require('dotenv').config({ path: path.join(__dirname, '../config/dev.env') });
+require('dotenv').config({ path: path.join(__dirname, '../../config/dev.env') });
 
 
 const connectionURL = process.env.MONGODB_URL;
