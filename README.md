@@ -10,7 +10,7 @@ A backend REST API for managing personal tasks with authentication, filtering, p
 - Secure API with environment variables
 
 ## Tech Stack
-Node.js, Express.js, MongoDB, Mongoose, JWT, Nodemailer
+Node.js, Express.js, MongoDB, Mongoose, JWT, Sendgrid , supertest
 
 ## Live Demo
 [Hosted on Render](https://your-render-link.com)
