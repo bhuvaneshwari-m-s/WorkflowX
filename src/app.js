@@ -44,7 +44,7 @@ app.get('/', (req, res) => {
             </head>
             <body>
                 <h1>📋 Task Manager API is Running</h1>
-                <p>This is the backend server for your personal Task Manager project.</p>
+                <p>This is the backend server developed by Bhuvaneshwari M S as part of the Task Manager project.</p>
                 
                 <div class="routes">
                     <h2>Available Endpoints</h2>
